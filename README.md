@@ -7,7 +7,7 @@ I am on the journey to become a great manager and developer with global impact. 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+learning+journey!;Future+Global+Impact+Developer;Building+discipline+through+code;Currently+studying+C%23+.NET+and+Software+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+learning+journey!;Future+Global+Impact+Developer;Building+discipline+through+code;Currently+studying+C%23+and+Software+Development" />
 </p>
 
 ---
@@ -16,128 +16,128 @@ I am on the journey to become a great manager and developer with global impact. 
 
 ---
 
-## <img src="https://media.tenor.com/5ry-200hErMAAAAM/waving-flag-usa.gif" width="35"> 🇺🇸 English
+## 🇺🇸 English
 
----
-
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Welcome" />
-</p>
+### 👋 Welcome
 
 Welcome to my study repository!
 
-This is a space where I document my daily learning, challenges, experiments, and projects as I grow as a developer.
+This is a space where I document my daily learning, challenges, experiments, and projects as I grow as a developer. More than just code, this repository represents consistency, curiosity, and progress over time.
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=About+This+Repository" />
-</p>
+### 📖 About This Repository
 
-Here you will find exercises and projects developed during my studies. Everything is organized to track my evolution and revisit concepts whenever needed.
+Here you will find exercises and projects developed during my studies. Everything is organized to help track my evolution and revisit concepts whenever needed.
+
+This repository is constantly evolving — just like my learning journey.
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Organization" />
-</p>
+### 🗂️ Organization
+
+To keep everything clean and easy to navigate, the content is separated by:
 
 #### 🎯 Difficulty Level
-- 🟢 Beginner  
-- 🟡 Intermediate  
-- 🔴 Advanced  
+- 🟢 Beginner — Foundations and basic concepts  
+- 🟡 Intermediate — Applying logic and combining concepts  
+- 🔴 Advanced — Challenging problems and deeper studies  
 
 #### 🧠 Study Topics
-Exercises and projects are grouped according to the subject or technology studied.
+Exercises and projects are grouped according to the subject or technology being studied.
 
 #### 💻 Programming Languages
-Each language has its own organized space.
+Each programming language has its own space inside the repository, helping maintain structure and clarity.
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Projects" />
-</p>
+### 🚀 Projects
 
-Besides exercises, this repository includes projects created to apply knowledge in real scenarios.
+Besides exercises, this repository also includes personal and study projects created to apply knowledge in real-world scenarios.
+
+These projects represent practical learning and experimentation.
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Goals" />
-</p>
+### 📈 Goals
 
 - Maintain consistency in daily studies  
-- Track my progress  
-- Strengthen problem-solving skills  
-- Build a strong portfolio  
-- Share my journey  
+- Track my progress over time  
+- Strengthen problem-solving and logical thinking  
+- Build a solid portfolio  
+- Share my learning journey  
+
+---
+
+### 🤝 Feel Free to Explore
+
+If you are also learning programming, I hope this repository can inspire or help you somehow.
+
+⭐ Thanks for visiting!
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
 </p>
 
 ---
 
-## <img src="https://media.tenor.com/7x7D1C8H2lQAAAAM/brazil-flag.gif" width="35"> 🇧🇷 Português
+## 🇧🇷 Português
 
----
-
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=400&lines=Bem-vindo" />
-</p>
+### 👋 Bem-vindo
 
 Bem-vindo ao meu repositório de estudos!
 
-Este é um espaço onde documento meu aprendizado diário, desafios, experimentos e projetos enquanto evoluo como desenvolvedor.
+Este é um espaço onde documento meu aprendizado diário, desafios, experimentos e projetos enquanto evoluo como desenvolvedor. Mais do que apenas código, este repositório representa consistência, curiosidade e progresso ao longo do tempo.
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=450&lines=Sobre+Este+Reposit%C3%B3rio" />
-</p>
+### 📖 Sobre Este Repositório
 
-Aqui você encontrará exercícios e projetos desenvolvidos durante meus estudos. Tudo é organizado para acompanhar minha evolução.
+Aqui você encontrará exercícios e projetos desenvolvidos durante meus estudos. Tudo é organizado para facilitar o acompanhamento da minha evolução e revisão de conceitos sempre que necessário.
+
+Este repositório está em constante evolução — assim como minha jornada de aprendizado.
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=400&lines=Organiza%C3%A7%C3%A3o" />
-</p>
+### 🗂️ Organização
+
+Para manter tudo organizado e fácil de navegar, o conteúdo é separado por:
 
 #### 🎯 Nível de Dificuldade
-- 🟢 Iniciante  
-- 🟡 Intermediário  
-- 🔴 Avançado  
+- 🟢 Iniciante — Fundamentos e conceitos básicos  
+- 🟡 Intermediário — Aplicação de lógica e combinação de conceitos  
+- 🔴 Avançado — Problemas desafiadores e estudos aprofundados  
 
 #### 🧠 Tópicos de Estudo
-Os exercícios e projetos são agrupados por assunto ou tecnologia.
+Os exercícios e projetos são agrupados de acordo com o assunto ou tecnologia estudada.
 
 #### 💻 Linguagens de Programação
-Cada linguagem possui seu próprio espaço dentro do repositório.
+Cada linguagem de programação possui seu próprio espaço dentro do repositório, ajudando a manter estrutura e clareza.
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=400&lines=Projetos" />
-</p>
+### 🚀 Projetos
 
-Além dos exercícios, você encontrará projetos criados para aplicar conhecimento na prática.
+Além dos exercícios, você também encontrará projetos pessoais e de estudo criados para aplicar conhecimento em cenários práticos.
+
+Esses projetos representam aprendizado prático e experimentação.
+
+---
+
+### 📈 Objetivos
+
+- Manter consistência nos estudos diários  
+- Acompanhar minha evolução ao longo do tempo  
+- Fortalecer raciocínio lógico e resolução de problemas  
+- Construir um portfólio sólido  
+- Compartilhar minha jornada de aprendizado  
 
 ---
 
-### <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=400&lines=Objetivos" />
-</p>
+### 🤝 Fique à Vontade para Explorar
 
-- Manter consistência nos estudos  
-- Acompanhar evolução  
-- Fortalecer raciocínio lógico  
-- Construir portfólio sólido  
-- Compartilhar conhecimento  
-
----
+Se você também está aprendendo programação, espero que este repositório possa te inspirar ou ajudar de alguma forma.
 
 ⭐ Obrigado pela visita!
