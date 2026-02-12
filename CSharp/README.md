@@ -69,6 +69,10 @@ Projects focus on clean code, scalability, and problem-solving.
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
+</p>
+
 ## 🇧🇷 Português
 
 ### 📘 Sobre Esta Seção
@@ -125,7 +129,3 @@ Os projetos focam em organização de código, escalabilidade e boas práticas.
 - Preparar-me para ambientes profissionais de desenvolvimento  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
-</p>
