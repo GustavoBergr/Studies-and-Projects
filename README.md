@@ -1,8 +1,18 @@
-# 🌱 My Daily Study Journey
+# 👨‍💻 About Me
+
+Hi! My name is **Gustavo Berg**, I’m **22 years old** and a **Computer Science student**.
+
+I am on the journey to become a great manager and developer with global impact. This repository marks the beginning of my professional trajectory, starting with **C#** and expanding my knowledge through daily study and practical projects.
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+study+repository!;Documenting+my+learning+journey;Consistency+%2B+Practice+%2B+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+learning+journey!;Future+Global+Impact+Developer;Building+discipline+through+code;Currently+studying+C%23+and+Software+Development" />
 </p>
+
+---
+
+# 🌱 My Daily Study Journey
 
 ---
 
@@ -61,9 +71,15 @@ These projects represent practical learning and experimentation.
 
 ### 🤝 Feel Free to Explore
 
-If you are also learning programming, I hope this repository can inspire or help you somehow. Learning programming is a long journey, and sharing knowledge makes it even better.
+If you are also learning programming, I hope this repository can inspire or help you somehow.
 
 ⭐ Thanks for visiting!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
+</p>
 
 ---
 
@@ -122,6 +138,6 @@ Esses projetos representam aprendizado prático e experimentação.
 
 ### 🤝 Fique à Vontade para Explorar
 
-Se você também está aprendendo programação, espero que este repositório possa te inspirar ou ajudar de alguma forma. Aprender programação é uma longa jornada, e compartilhar conhecimento torna tudo ainda melhor.
+Se você também está aprendendo programação, espero que este repositório possa te inspirar ou ajudar de alguma forma.
 
 ⭐ Obrigado pela visita!
