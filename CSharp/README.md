@@ -73,6 +73,7 @@ Projects focus on clean code, scalability, and problem-solving.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
 </p>
 
+---
 ## 🇧🇷 Português
 
 ### 📘 Sobre Esta Seção
